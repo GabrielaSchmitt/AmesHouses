@@ -1,6 +1,9 @@
 # Ames Houses Analisys 
 Análise de Tendências do Mercado Imobiliário
 
+# Acesse o código pelo colab abaixo
+https://colab.research.google.com/drive/1lzF2gw3UGt9zQdKlNJxH6Qh0ZbySbouN?usp=sharing
+
 
 Os alunos devem realizar uma análise completa do mercado imobiliário da cidade de Ames, Iowa, usando os dados fornecidos no dataset. O objetivo é identificar padrões nos preços de venda dos imóveis e como diferentes características (número de quartos, área útil, localização) afetam o preço.
 
